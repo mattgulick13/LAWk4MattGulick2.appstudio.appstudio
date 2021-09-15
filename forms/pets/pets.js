@@ -10,3 +10,5 @@ console.log(`The array has ${withSal.length} in it.`)
 //withSal = ["Darcy", "Jack", "Jerry", "Marty", "Vito", "Vinny", "Riley", "Saddie", "Marge", "Sam", "Sal"]
 
 console.log(withSal.pop())
+
+console.log(`hello`)
